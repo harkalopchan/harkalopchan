@@ -35,7 +35,7 @@ export default function Home() {
           {/* Download PDF CTA */}
           <div className="mb-8">
             <a 
-              href="/resume.pdf" 
+              href="/Harka_Man_Tamang_Senior_Frontend_Developer.pdf" 
               download
               className="inline-flex items-center gap-2 px-6 py-3 rounded bg-blue-600 dark:bg-blue-500 text-white font-semibold border-2 border-blue-600 dark:border-blue-500 hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors"
             >
