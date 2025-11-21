@@ -1,5 +1,3 @@
-<div align="center">
-
 # ✨ Harka Lopchan
 
 ### Senior Frontend Engineer | React, Next.js & TypeScript Expert | Building Scalable, High-Performance Web Experiences
@@ -11,23 +9,15 @@
 
 *Building Scalable, Accessible, and High-Performance Web Experiences*
 
-</div>
-
 ---
 
 ## 🎯 About Me
 
-<div align="center">
-
 **Frontend Developer** with **15+ years of experience** | Currently based in **Dubai, UAE** 🇦🇪
-
-</div>
 
 I specialize in crafting elegant, high-performance digital experiences using **React.js, Next.js, TypeScript**, and **Tailwind CSS**. With a passion for clean code and user-centric design, I transform complex requirements into seamless, accessible interfaces.
 
 ### What I'm Passionate About
-
-<div align="center">
 
 ✨ **Building beautiful, high-performance user interfaces**  
 🚀 **Optimizing Core Web Vitals & frontend performance**  
@@ -36,24 +26,18 @@ I specialize in crafting elegant, high-performance digital experiences using **R
 🧠 **Continuous learning in modern JS frameworks & UI engineering**  
 🎙️ **Running [Harka Podcast](https://harkalopchan.com)** to highlight Nepali stories in Dubai
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Core
-<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=ffffff)
 
-</div>
-
 ### Frontend Frameworks
-<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&labelColor=ffffff)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&labelColor=ffffff)
@@ -63,30 +47,21 @@ I specialize in crafting elegant, high-performance digital experiences using **R
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&labelColor=ffffff)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&labelColor=ffffff)
 
-</div>
-
 ### Backend & APIs
-<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=ffffff)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&labelColor=ffffff)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&labelColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&labelColor=ffffff)
 
-</div>
-
 ### CMS & Content Platforms
-<div align="center">
 
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&labelColor=ffffff)
 ![Sanity](https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&labelColor=ffffff)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&labelColor=ffffff)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=ffffff)
 
-</div>
-
 ### Tools & Workflow
-<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=ffffff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&labelColor=ffffff)
@@ -99,34 +74,23 @@ I specialize in crafting elegant, high-performance digital experiences using **R
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&labelColor=ffffff)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&labelColor=ffffff)
 
-</div>
-
 ### AI Tools
-<div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&labelColor=ffffff)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&labelColor=ffffff)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&labelColor=ffffff)
 
-</div>
-
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harkalopchan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=34D399&text_color=9CA3AF)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harkalopchan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=34D399&text_color=9CA3AF&border_radius=12)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harkalopchan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=9CA3AF&border_radius=12)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harkalopchan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=9CA3AF)
 
 ---
 
 ## 🎯 Key Achievements
-
-<div align="center">
 
 | Metric | Achievement |
 |:---:|:---|
@@ -136,8 +100,6 @@ I specialize in crafting elegant, high-performance digital experiences using **R
 | **4** | Junior developers mentored |
 | **25%** | SEO performance boost |
 | **40%** | Reduced deployment time |
-
-</div>
 
 ---
 
@@ -151,27 +113,17 @@ I specialize in crafting elegant, high-performance digital experiences using **R
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
 I'm always open to discussing:
 
 **Frontend Development** • **UI/UX Engineering** • **Performance Optimization**  
 **Freelance Opportunities** • **Job Opportunities** • **Podcast Collaboration**
-
-</div>
-
-<div align="center">
 
 📧 **Email:** [harkalopchan@gmail.com](mailto:harkalopchan@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/harkalopchan](https://www.linkedin.com/in/harkalopchan/)  
 🌐 **Portfolio:** [harkalopchan.com](https://harkalopchan.com)  
 📱 **Phone:** +971 561067220
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 💬 Quote
 
@@ -182,5 +134,3 @@ I'm always open to discussing:
 ⭐ **If you like my work, consider starring some repositories!**
 
 Made with ❤️ by Harka Lopchan
-
-</div>
