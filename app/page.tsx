@@ -17,12 +17,12 @@ export default function Home() {
             <svg className="w-4 h-4 text-blue-600 dark:text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
             </svg>
-            <span className="text-sm font-semibold text-blue-600 dark:text-blue-400 font-mono">{"<"}Senior Frontend Developer{" />"}</span>
+            <span className="text-sm font-semibold text-blue-600 dark:text-blue-400 font-mono">{"<"}Senior Frontend Engineer{" />"}</span>
           </div>
           
           <h1 className="text-5xl md:text-6xl font-extrabold mb-6 bg-gradient-to-r from-blue-600 via-cyan-500 to-blue-700 dark:from-blue-400 dark:via-cyan-400 dark:to-blue-500 bg-clip-text text-transparent animate-fade-in tracking-tight">
             <span className="text-slate-400 dark:text-slate-500">const</span>{' '}
-            <span className="text-blue-600 dark:text-blue-400">developer</span>{' '}
+            <span className="text-blue-600 dark:text-blue-400">engineer</span>{' '}
             <span className="text-slate-400 dark:text-slate-500">=</span>{' '}
             <span className="font-mono text-4xl md:text-5xl">"HARKA LOPCHAN"</span>
           </h1>
@@ -35,7 +35,7 @@ export default function Home() {
           {/* Download PDF CTA */}
           <div className="mb-8">
             <a 
-              href="/Harka_Man_Tamang_Senior_Frontend_Developer.pdf" 
+              href="/Harka_Man_Tamang_Senior_Frontend_Engineer.pdf" 
               download
               className="inline-flex items-center gap-2 px-6 py-3 rounded bg-blue-600 dark:bg-blue-500 text-white font-semibold border-2 border-blue-600 dark:border-blue-500 hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors"
             >
@@ -105,17 +105,16 @@ export default function Home() {
               </div>
               <div className="space-y-4 text-slate-600 dark:text-slate-300 leading-relaxed text-lg">
                 <p>
-                  Innovative Frontend Developer with over <strong className="text-blue-600 dark:text-blue-400">15 years</strong> of experience delivering high-performance, accessible, and scalable digital platforms using React.js, Next.js, TypeScript, and modern UI frameworks. Thrives in collaborative environments, translating complex requirements into elegant, user-centric interfaces that balance design and performance.
+                  Innovative Frontend Engineer with over <strong className="text-blue-600 dark:text-blue-400">15 years</strong> of experience building scalable, high-performance web applications using React,
+Next.js, TypeScript, and Tailwind CSS. Proven track record in optimizing Core Web Vitals, ensuring cross-browser, cross-
+platform, and device compatibility, and delivering responsive user interfaces. Skilled in UI/UX implementation, RESTful
+and GraphQL API integration, and performance optimization. Experienced in architectural decisions, technical design
+discussions, and cross-functional collaboration to deliver scalable frontend systems. Eager to contribute frontend expertise
+to new challenges.
                 </p>
                 <p>
                   Strong collaborator with excellent communication, mentoring, and problem-solving skills.
                 </p>
-                <div className="mt-6 p-4 rounded bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800">
-                  <p className="text-sm font-semibold text-slate-800 dark:text-slate-200 mb-2">Core Skills:</p>
-                  <p className="text-slate-700 dark:text-slate-300 text-base">
-                    React.js, Next.js, TypeScript, Redux, Tailwind CSS, Umbraco CMS, Sanity CMS, HubSpot CMS, REST APIs, GraphQL, Accessibility (WCAG 2.1), CI/CD, Git
-                  </p>
-                </div>
               </div>
             </section>
 
@@ -266,21 +265,19 @@ export default function Home() {
                       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                       </svg>
-                      <span>May 2014 - Jun 2025</span>
+                      <span>May 2014 - Current</span>
                     </div>
                   </div>
                   <p className="text-lg font-semibold text-blue-600 dark:text-blue-400 mb-4 font-mono">MBLM, Dubai, UAE</p>
                   <ul className="space-y-3 text-slate-600 dark:text-slate-300">
                     {[
-                      'Led development of enterprise-grade digital platforms using React, Next.js, Gatsby, and Umbraco CMS.',
-                      'Translated Sketch, Figma, and XD designs into pixel-perfect responsive components.',
-                      'Delivered bilingual Arabic/English UX with full RTL support.',
-                      'Optimized website performance, improving load times by up to 50%.',
-                      'Integrated Sanity and HubSpot CMS to enable dynamic, content-driven web experiences.',
-                      'Applied WCAG 2.1 accessibility standards to improve inclusivity and SEO.',
-                      'Managed Git workflows, CI/CD pipelines, and collaborative sprints for quality delivery.',
-                      'Worked closely with designers and backend engineers to align design and functionality.',
-                      'Enhanced reusable UI libraries and implemented code-splitting strategies aligned with performance KPIs.',
+                      'Led development of a scalable frontend architecture using React.js, Next.js, TypeScript, GraphQL, and RESTful APIs',
+                      'Optimized website performance and improving load times by 50%',
+                      'Ensured adherence to security best practices by conducting regular code audits and vulnerability assessments',
+                      'Led architectural decisions and technical design discussions, contributing to the development of a scalable frontend architecture that ensured consistency, maintainability, and performance across multiple projects',
+                      'Collaborated closely with UI/UX teams to translate Sketch, Figma, and XD designs into pixel-perfect, reusable design system components with bilingual Arabic/English UX and full RTL support',
+                      'Managed Git workflows and automated CI/CD pipelines, streamlining deployment processes and ensuring faster, error-free releases across environments',
+                      'Promoted and trained the engineering team in AI/LLM-driven development practices, establishing guidelines and best practices for daily use',
                     ].map((item, idx) => (
                       <li key={idx} className="flex items-start gap-3">
                         <span className="text-blue-500 dark:text-blue-400">▸</span>
@@ -367,7 +364,7 @@ export default function Home() {
                 <div>
                   <h3 className="font-semibold text-slate-700 dark:text-slate-300 mb-3 text-sm uppercase tracking-wide">Frontend Technologies</h3>
                   <div className="flex flex-wrap gap-2">
-                    {['JavaScript (ES6+)', 'TypeScript', 'React.js', 'Next.js', 'React Native', 'Redux', 'Context API', 'Tailwind CSS', 'CSS-in-JS', 'Styled Components', 'Accessibility (WCAG 2.1)', 'Performance Optimization', 'HTML5', 'CSS3'].map((skill) => (
+                    {['JavaScript (ES6+)', 'TypeScript', 'React.js', 'Next.js', 'React Native', 'Vue.js', 'react-hook-form', 'Redux', 'Context API', 'Tailwind CSS', 'CSS-in-JS', 'Styled Components', 'Bootstrap', 'Accessibility (WCAG 2.1)', 'Performance Optimization', 'HTML5', 'CSS3', 'Ajax', 'jQuery'].map((skill) => (
                       <span key={skill} className="px-3 py-1.5 rounded bg-blue-50 dark:bg-blue-900/20 text-slate-700 dark:text-slate-300 text-xs font-medium border border-blue-200 dark:border-blue-800">
                         {skill}
                       </span>
@@ -377,7 +374,7 @@ export default function Home() {
                 <div>
                   <h3 className="font-semibold text-slate-700 dark:text-slate-300 mb-3 text-sm uppercase tracking-wide">Backend & API Integration</h3>
                   <div className="flex flex-wrap gap-2">
-                    {['Node.js', 'REST APIs', 'GraphQL'].map((skill) => (
+                    {['Node.js', 'REST APIs', 'GraphQL', 'WebSockets'].map((skill) => (
                       <span key={skill} className="px-3 py-1.5 rounded bg-green-50 dark:bg-green-900/20 text-slate-700 dark:text-slate-300 text-xs font-medium border border-green-200 dark:border-green-800">
                         {skill}
                       </span>
@@ -397,7 +394,7 @@ export default function Home() {
                 <div>
                   <h3 className="font-semibold text-slate-700 dark:text-slate-300 mb-3 text-sm uppercase tracking-wide">Tools & Workflow</h3>
                   <div className="flex flex-wrap gap-2">
-                    {['Git', 'CI/CD', 'Figma-to-Code', 'Vite', 'Webpack', 'Jest', 'React Testing Library'].map((skill) => (
+                    {['Git', 'CI/CD', 'Figma-to-Code', 'GitHub Copilot', 'Vite', 'Webpack', 'Jest', 'React Testing Library'].map((skill) => (
                       <span key={skill} className="px-3 py-1.5 rounded bg-slate-100 dark:bg-slate-700 text-slate-700 dark:text-slate-300 text-xs font-medium border border-slate-200 dark:border-slate-600">
                         {skill}
                       </span>
