@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-**Frontend Developer** with **15+ years of experience** | Currently based in **Dubai, UAE** 🇦🇪
+**Frontend Developer** with **18+ years of experience** | Currently based in **Dubai, UAE** 🇦🇪
 
 I specialize in crafting elegant, high-performance digital experiences using **React.js, Next.js, TypeScript**, and **Tailwind CSS**. With a passion for clean code and user-centric design, I transform complex requirements into seamless, accessible interfaces.
 
