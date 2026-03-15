@@ -1,6 +1,6 @@
 # ✨ Harka Lopchan
 
-### Senior Frontend Engineer | AI-Powered Web Applications | React, Next.js & TypeScript | Scalable UI Architecture, Performance & Accessibility | 15+ Years Experience
+### Senior Frontend Engineer | AI-Powered Web Applications | React, Next.js & TypeScript | Scalable UI Architecture, Performance & Accessibility | 18+ Years Experience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harkalopchan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harkalopchan@gmail.com)
