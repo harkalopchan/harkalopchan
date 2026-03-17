@@ -13,14 +13,14 @@ export function ThemeToggle() {
 
   if (!mounted) {
     return (
-      <div className="fixed top-6 right-6 z-50 w-12 h-12 rounded bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700" />
+      <div className="fixed top-6 right-6 z-50 w-12 h-12 rounded-xl glass-card p-0" />
     )
   }
 
   return (
     <button
       onClick={toggleTheme}
-      className="fixed top-6 right-6 z-50 p-3 rounded bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition-colors"
+      className="fixed top-6 right-6 z-50 p-3 rounded-xl glass-card hover:brightness-[1.02] transition"
       aria-label="Toggle theme"
     >
       <div className="relative w-6 h-6">
