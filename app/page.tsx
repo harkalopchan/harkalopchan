@@ -164,8 +164,6 @@ export default function Home() {
                 { href: '#achievements', label: 'Achievements' },
                 { href: '#projects', label: 'Projects' },
                 { href: '#experience', label: 'Experience' },
-                { href: '#skills', label: 'Skills' },
-                { href: '#education', label: 'Education' },
               ].map((item) => (
                 <a
                   key={item.href}
